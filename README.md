@@ -1,16 +1,16 @@
 
-<a href="http://ec2-13-113-252-237.ap-northeast-1.compute.amazonaws.com:8000/">Project Demo</a>
+<a href="http://phpshop.click/">Project Demo</a>
 
 <div align="center">
 
   <h1>Website bán hàng cho doanh nghiệp thời trang</h1>
   
 <h4>
-    <a href="https://github.com/02david20/WP_ASS">Documentation</a>
+    <a href="https://github.com/HnKnA/PHPShop">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/02david20/WP_ASS/issues/">Report Bug</a>
+    <a href="https://github.com/HnKnA/PHPShop/issues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/02david20/WP_ASS/issues/">Request Feature</a>
+    <a href="https://github.com/HnKnA/PHPShop/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -143,7 +143,7 @@ We also have another option to use this by using Docker
 Clone the project
 
 ```bash
-  git clone https://github.com/02david20/WP_ASS
+  git clone https://github.com/HnKnA/PHPShop.git
 ```
 
 
@@ -166,9 +166,9 @@ Clone the project
 <!-- Contact -->
 ## :handshake: Contact
 
-Huỳnh Đại Vinh - [02david20](https://github.com/02david20)
+Nguyễn Trọng Anh Tuấn - [HnKnA](https://github.com/HnKnA)
 
-Project Link: [https://github.com/02david20/WP_ASS](https://github.com/02david20/WP_ASS)
+Project Link: [https://github.com/HnKnA/PHPShop](https://github.com/HnKnA/PHPShop)
 
  - [Readme Template](https://github.com/othneildrew/Best-README-Template)
 
